@@ -1,9 +1,8 @@
-##Olá! Eu sou Josy Barros
+# Olá! Eu sou Josy Barros
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudo Fullstack na LABENU e Analise e Desenvolvimento de Sistema na Cruzeiro do Sul. 
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: ela/dela
+### - 🔭 Hoje trabalho com Front-end
+### - 🌱 Estudo Fullstack na LABENU e Analise e Desenvolvimento de Sistema na Cruzeiro do Sul. 
+### - 😄 Pronouns: ela/dela
 
 <div align="center">
   <a href="https://github.com/josybarros">
